@@ -1,4 +1,12 @@
-Apache Mynewt NimBLE
+esp32s31-bt-lib
+
+This distribution contains libraries that include code derived from
+the following upstream projects. The upstream code included from both
+projects is licensed under the Apache License, Version 2.0. See the
+LICENSE file in this directory for the full license text.
+
+1. Apache Mynewt NimBLE (https://github.com/apache/mynewt-nimble)
+
 Copyright 2015-2021 The Apache Software Foundation
 Modifications Copyright 2017-2026 Espressif Systems (Shanghai) CO., LTD.
 
@@ -7,3 +15,8 @@ The Apache Software Foundation (http://www.apache.org/).
 
 Portions of this software were developed at
 Runtime Inc, copyright 2015.
+
+2. Zephyr Project (https://github.com/zephyrproject-rtos/zephyr)
+
+Copyright (c) Zephyr Project contributors
+Modifications Copyright 2023-2026 Espressif Systems (Shanghai) CO., LTD.
